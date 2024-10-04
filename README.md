@@ -42,7 +42,7 @@
   <a href="https://codeforces.com/profile/devrajadi" target="_blank">
      <img src="https://img.shields.io/badge/Codeforces-425E9C?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
-  <a href="vhttps://www.geeksforgeeks.org/user/coffeecoder12" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/coffeecoder12" target="_blank">
      <img src="https://img.shields.io/badge/GeeksforGeeks-black?style=for-the-badge&logo=geeksforgeeks&logoColor=3D7A45" target="_blank" />
   </a>
 </div>
