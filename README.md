@@ -16,8 +16,6 @@
  
  🌱 I’m currently learning **C++ and Python**
 
-💬 Ask me about **C++, Python**
-
 ⚡ Fun fact **😈 Lucifer was innocent 😈**
 
  </div>
