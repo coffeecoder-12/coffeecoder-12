@@ -34,9 +34,6 @@
   <a href="https://leetcode.com/u/coffeecoder12/" target="_blank">
      <img src="https://img.shields.io/badge/LeetCode-FEA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
   </a>
-  <a href="https://www.codechef.com/users/coffeecoder12" target="_blank">
-     <img src="https://img.shields.io/badge/CodeChef-822916?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
-  </a>
   <a href="https://codeforces.com/profile/devrajadi" target="_blank">
      <img src="https://img.shields.io/badge/Codeforces-425E9C?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
