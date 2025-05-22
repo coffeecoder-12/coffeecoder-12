@@ -14,7 +14,7 @@
  
  🔭 I’m currently a student at **BIT Mesra**
  
- 🌱 I’m currently learning **C++ and Python**
+ 🌱 I’m currently learning **C++, Python and Web Dev**
 
  </div>
 
@@ -47,8 +47,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=notion" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,python,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=git,javascript,github,python,cpp" /><br>
 </div>
 
 <br/>
