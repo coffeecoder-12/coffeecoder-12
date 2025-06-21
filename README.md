@@ -14,7 +14,7 @@
  
  🔭 I’m currently a student at **BIT Mesra**
  
- 🌱 I’m currently learning **C++, Python and Web Dev**
+ 🌱 I’m currently learning **C++ and Web Dev**
 
  </div>
 
